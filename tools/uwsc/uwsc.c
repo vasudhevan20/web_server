@@ -25,6 +25,7 @@
 #include <stdlib.h>
 #include <getopt.h>
 #include <ulfius.h>
+#include "orcania.h"
 
 /** Define mock yder functions when yder is disabled **/
 #ifdef U_DISABLE_YDER
