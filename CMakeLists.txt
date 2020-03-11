@@ -297,7 +297,7 @@ endif ()
 
 # build uwsc
 
-option(BUILD_UWSC "Build uwsc application." ON)
+option(BUILD_UWSC "Build uwsc application." OFF)
 
 if (NOT WITH_WEBSOCKET)
     set(BUILD_UWSC OFF)
