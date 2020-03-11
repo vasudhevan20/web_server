@@ -241,7 +241,7 @@ endif ()
 
 # dependencies
 
-option(SEARCH_ORCANIA_U "Search for ORCANIA library" OFF)
+option(SEARCH_ORCANIA_U "Search for ORCANIA library" ON)
 if (SEARCH_ORCANIA_U)
     set(Orcania_FIND_QUIETLY ON) # force to find Orcania quietly
     include(FindOrcania)
