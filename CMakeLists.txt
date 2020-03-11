@@ -278,7 +278,7 @@ if (WITH_YDER)
         if (NOT YDER_FOUND)
             include(DownloadProject)
             download_project(PROJ yder # ... otherwise, download archive
-                              URL "http://github.com/babelouest/yder/archive/v${YDER_VERSION_REQUIRED}.tar.gz"
+                              URL "https://github.com/babelouest/yder/archive/v${YDER_VERSION_REQUIRED}.tar.gz"
                               QUIET)
             add_subdirectory(${yder_SOURCE_DIR} ${yder_BINARY_DIR})
             include_directories(${yder_SOURCE_DIR}/include)
