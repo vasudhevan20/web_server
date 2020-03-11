@@ -241,9 +241,9 @@ endif ()
 
 # dependencies
 
-option(SEARCH_ORCANIA_U "Search for ORCANIA library" ON)
+option(SEARCH_ORCANIA_U "Search for ORCANIA library" OFF)
 if (SEARCH_ORCANIA_U)
-    set(Orcania_FIND_QUIETLY OFF) # force to find Orcania quietly
+    set(Orcania_FIND_QUIETLY ON) # force to find Orcania quietly
     include(FindOrcania)
     find_package(Orcania ${ORCANIA_VERSION_REQUIRED} QUIET) # try to find orcania
     if (NOT ORCANIA_FOUND)
