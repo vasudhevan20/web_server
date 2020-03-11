@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/CMakeFiles/orcania-download"
+		},
+		
+		{
+			"file" : "/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/CMakeFiles/orcania-download.rule"
+		},
+		
+		{
+			"file" : "/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/CMakeFiles/orcania-download-complete.rule"
+		},
+		
+		{
+			"file" : "/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-install.rule"
+		},
+		
+		{
+			"file" : "/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-mkdir.rule"
+		},
+		
+		{
+			"file" : "/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-download.rule"
+		},
+		
+		{
+			"file" : "/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-update.rule"
+		},
+		
+		{
+			"file" : "/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-patch.rule"
+		},
+		
+		{
+			"file" : "/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-configure.rule"
+		},
+		
+		{
+			"file" : "/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-build.rule"
+		},
+		
+		{
+			"file" : "/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "orcania-download" ],
+		"name" : "orcania-download"
+	}
+}

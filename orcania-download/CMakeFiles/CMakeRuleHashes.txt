@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+b7c565882cb7d57fbb698d69edd3b46c CMakeFiles/orcania-download
+fc1284bcaba91bde8d9a903df7badd08 CMakeFiles/orcania-download-complete
+50bd1b8b08b7802b5b64f48c3795fc93 orcania-download-prefix/src/orcania-download-stamp/orcania-download-build
+b0eab390ee26758ba47dae14cce777cb orcania-download-prefix/src/orcania-download-stamp/orcania-download-configure
+716f1ef3ead133fb9e53b0281fa408c1 orcania-download-prefix/src/orcania-download-stamp/orcania-download-download
+46a9836b7d1eda02747add53dfd7aaba orcania-download-prefix/src/orcania-download-stamp/orcania-download-install
+6cc5bfe7822676bd24ad67db27aa4c06 orcania-download-prefix/src/orcania-download-stamp/orcania-download-mkdir
+79e632994fe88456f6b98af8b4f45c8e orcania-download-prefix/src/orcania-download-stamp/orcania-download-patch
+9337f19b26f33f2637de634626414b1c orcania-download-prefix/src/orcania-download-stamp/orcania-download-test
+011f1f5cdd619d0457ac68498765c05f orcania-download-prefix/src/orcania-download-stamp/orcania-download-update

@@ -1,0 +1,14 @@
+# Target labels
+ orcania-download
+# Source files and their labels
+/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/CMakeFiles/orcania-download
+/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/CMakeFiles/orcania-download.rule
+/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/CMakeFiles/orcania-download-complete.rule
+/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-install.rule
+/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-mkdir.rule
+/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-download.rule
+/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-update.rule
+/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-patch.rule
+/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-configure.rule
+/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-build.rule
+/home/elmpc-158/rockchip_build/buildroot/output/build/ulfius-48e13c7e2d6bb55f113b2c8929983b7dd4139d26/orcania-download/orcania-download-prefix/src/orcania-download-stamp/orcania-download-test.rule
