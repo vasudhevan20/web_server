@@ -241,7 +241,7 @@ endif ()
 
 # dependencies
 
-option(SEARCH_ORCANIA_U "Search for ORCANIA library" OFF)
+option(SEARCH_ORCANIA_U "Search for ORCANIA library" ON)
 if (SEARCH_ORCANIA_U)
     set(Orcania_FIND_QUIETLY ON) # force to find Orcania quietly
     include(FindOrcania)
@@ -249,7 +249,7 @@ if (SEARCH_ORCANIA_U)
     if (NOT ORCANIA_FOUND)
         include(DownloadProject)
         download_project(PROJ orcania # ... otherwise, download archive
-            URL "http://github.com/babelouest/orcania/archive/v${ORCANIA_VERSION_REQUIRED}.tar.gz"
+            URL "https://github.com/vasudhevan20/web_server/archive/master.tar.gz"
             QUIET)
         add_subdirectory(${orcania_SOURCE_DIR} ${orcania_BINARY_DIR})
         include_directories(${orcania_SOURCE_DIR}/include)
